@@ -86,9 +86,9 @@ A red 0603 LED is driven from the TPS63070 **PG** (power-good) signal through a 
 
 | File | Description |
 |---|---|
-| `5VBuckBoost.kicad_sch` | KiCad 9 schematic |
-| `5VBuckBoost.kicad_pcb` | KiCad 9 PCB layout |
-| `5VBuckBoost.png` | 3D render of the PCB |
+| `5VBuckBoost.kicad_sch` | KiCad 9 Schematic |
+| `5VBuckBoost.kicad_pcb` | KiCad 9 PCB Layout |
+| `5VBuckBoost.kicad_pro` | KiCad 9 Project File |
 
 ---
 
